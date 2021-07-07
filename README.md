@@ -1,4 +1,13 @@
-### Hi there 👋
+### 👋 Hey there, I'm Biswamitra!
+
+#### what I do
+Software Engineer building enterprise web applications using Python & C#.
+
+#### learning about
+Python API development | Building large scale applications | Algorithmic problem solving | Software Design Patterns
+
+#### dabbled in
+Agile Project Management | Data Analysis with Python & Tableau | Predictive Analytics with Azure ML/Python
 
 <!--
 **biswa-b/biswa-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
