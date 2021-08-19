@@ -6,6 +6,9 @@ Software Engineer building enterprise web applications using Python & C#.
 #### learning about
 Python API development | Building large scale applications | Algorithmic problem solving | Software Design Patterns
 
+#### started out in
+Competitive Programming - 3⭐ at Codechef
+
 #### dabbled in
 Agile Project Management | Data Analysis with Python & Tableau | Predictive Analytics with Azure ML/Python
 
