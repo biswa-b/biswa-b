@@ -1,16 +1,13 @@
 ### 👋 Hey there, I'm Biswamitra!
 
-#### what I do
-Software Engineer building enterprise web applications using Python & C#.
+#### who I am
+Software Engineer building enterprise web applications & microservices using Python & C#.
+
+#### what I try to be good at
+Backend Development | Microservices API | Building cloud native applications that perform at scale | Software Design Patterns | Algorithmic problem solving | Clean code 
 
 #### learning about
-Python API development | Building large scale applications | Algorithmic problem solving | Software Design Patterns
-
-#### started out in
-Competitive Programming - 3* at Codechef
-
-#### dabbled in
-Agile Project Management | Data Analysis with Python & Tableau | Predictive Analytics with Azure ML/Python
+Data Analysis with Python & Tableau | Predictive Analytics with Azure ML/Python | Data Engineering with AWS/PySpark | Competitive Programming - 3* at Codechef
 
 <!--
 **biswa-b/biswa-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
